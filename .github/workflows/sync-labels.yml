@@ -3,7 +3,7 @@ on:
   workflow_dispatch:
 
 push:
-    paths: [.github/labels/labels.yml]
+    paths: [.github/labels.yml]
     branches: [main]
 
 concurrency:
