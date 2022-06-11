@@ -107,5 +107,5 @@
   description: The issue is awaiting investigation.
 
 - name: wontfix ⚓
-  color: fefefe
+  color: ffffff
   description: This will not be worked on.
