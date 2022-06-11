@@ -9,7 +9,7 @@
   description: Inconsistencies or issues which will cause a problem for users or implementors.
 
 - name: ci 🤖
-  color: 536266
+  color: "536266"
   description: Work that improves the continuous integration.
 
 - name: dependencies 📦
