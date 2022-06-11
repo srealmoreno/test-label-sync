@@ -45,7 +45,7 @@
   description: Good first issue for people wanting to contribute to this project.
 
 - name: help wanted 🙋
-  color: 008672
+  color: "008672"
   description: We need some extra helping hands or expertise in order to resolve this!.
 
 - name: invalid ⚠️
