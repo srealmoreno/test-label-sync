@@ -109,3 +109,29 @@
 - name: wontfix ⚓
   color: ffffff
   description: This will not be worked on.
+
+- name: docker-image 🐋
+  color: 76A5AF
+  description:
+    Pull requests that update the dockerfile that builds the docker image o
+    any file in the docker directory.
+
+- name: script-ubuntu ⭕️
+  color: A2C4C9
+  description: Pull requests that update the scripts/rae-ubuntu-install.sh script.
+
+- name: script-debian ꩜
+  color: EA9999
+  description: Pull requests that update the scripts/rae-debian-install.sh script.
+
+- name: script-arch 🅰️
+  color: 0C343D
+  description: Pull requests that update the scripts/rae-arch-install.sh script.
+
+- name: script-kali 🐉
+  color: 5B5B5B
+  description: Pull requests that update the scripts/rae-kali-install.sh script.
+
+- name: scripts-install 📦
+  color: F1C40F
+  description: Pull requests that update any file in the scripts directory.
