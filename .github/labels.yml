@@ -1,14 +1,3 @@
-- name: breaking-change 💥
-  color: D93F0B
-  description:
-    This is a test, it's my very long Github tag description that exceeds
-    the hundred character limit of tag descriptions on Github.
-
-- name: bug 🐞
-  color: d73a4a
-  description: 
-    This is a description that contains emojis 🐞
-
 - name: 😀 😃 😄 😁
   color: "536266"
-  description: This is proof that the name only contains emojis
+  description: This is a name only contains emojis
