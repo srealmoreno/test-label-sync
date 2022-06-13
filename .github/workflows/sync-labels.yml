@@ -1,11 +1,7 @@
 name: ♻️ Sync labels
 on:
   workflow_dispatch:
-
-  push:
-    paths: [.github/labels.yml]
-    branches: [main]
-
+  
 concurrency:
   group: ${{ github.workflow }}-${{ github.ref }}
   cancel-in-progress: true
