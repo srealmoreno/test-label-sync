@@ -18,3 +18,4 @@ jobs:
         uses: srealmoreno/label-sync@test/throw
         with:
           config-file: .github/labels.yml
+          delete-other-labels: true          
